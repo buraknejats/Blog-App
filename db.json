@@ -1,0 +1,31 @@
+{
+  "blogs": [
+    {
+      "yazarAdı": "Biz Evde Yokuz",
+      "sehirAdı": "İstanbul-Galata Kulesi",
+      "geziYorum": "İstanbullular için Galata Kulesi gökteki kutup yıldızı gibi birşey: Her vapura bindiğimizde gözlerimizin aradığı, Tünel ve Karaköy taraflarındayken pusula görevi gören, İstanbul’un çöplüğe dönen silüetinde yüzyıllardır kendini ezdirmeden varolmasını, şahsi hayat mücadelemize benzettiğimiz İstanbul’un daim bekçisidir Galata Kulesi.\n\nGölgesinde nice kez okul kırılmış, bira içilmiştir ama itiraf etmeliyiz ki; Galata Kulesi’ne çıkmış İstanbullu’dan çok turist vardır. Yerli yabancı turistlerin İstanbul’da gezilecek yerler listesinde en üst sıralarda yer alırken, biz İstanbullular hep ona karışık çerez tabağında talep görmeyen sarı leblebi muamelesi yaptık, ayıp ettik. Halbuki ne enteresandır Galata Kulesi. Anka kuşu gibi yanıp, yıkılıp tekrar tekrar dirilmesi, hakkındaki efsaneler, çılgın mucit Hezarfen Ahmet Çelebi’nin İstanbul üzerinde uçması… Şam fıstıklarının şovu çaldığı yeter, sahneyi Galata Kulesi’ne bırakıyoruz. 🙂",
+      "dateItem": "2022-12-02",
+      "bolge": "Marmara",
+      "url": "https://www.bizevdeyokuz.com/wp-content/uploads/galata-kulesi-1-1155x675.jpg",
+      "id": 6
+    },
+    {
+      "yazarAdı": "Kemal Kaya",
+      "sehirAdı": "Manisa-Sardes",
+      "geziYorum": "Sardes Antik Kenti, Manisa‘nın Salihli ilçesine bağlı Sart Mahallesi sınırlarında yer alan, Lidya Krallığına başkentlik yapan görkemli bir şehir. Lidyalıların dünya tarihinin akışının değişmesine neden olduğu sikke adı verilen ilk madeni parayı bastığı kent, İran’dan başlayan 2 bin 400 km uzunluğundaki Kral Yolu’nun da Anadolu topraklarındaki son durağı.\n\nAntik Çağın ünlü matematikçisi Thales’in MÖ 660’lı yıllarda imza attığı mükemmel kanalizasyon sistemine sahip olan Sardes, aynı zamanda bölgede Mezopotamya dışındaki en büyük savunma duvarı ile çevrili yerleşim yeri özelliğini taşıyordu. Kentte, 1900’lü yılların başında Amerikalılar tarafından başlatılan kazılarda hamam, Artemis Tapınağı, sinagog ve agora ortaya çıkarılmış.",
+      "dateItem": "2022-12-16",
+      "bolge": "Ege",
+      "url": "https://yoldaolmak.com/wp-content/uploads/2020/10/sardes-antik-kenti.jpg.webp",
+      "id": 7
+    },
+    {
+      "yazarAdı": "aaa",
+      "sehirAdı": "izmir",
+      "geziYorum": "fadfa",
+      "dateItem": "2022-12-02",
+      "bolge": "Ege",
+      "url": "https://i4.hurimg.com/i/hurriyet/75/1110x740/5e3bed1467b0a9192800642b.jpeg",
+      "id": 8
+    }
+  ]
+}
